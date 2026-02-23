@@ -42,5 +42,5 @@ app.post('/calculate-bill', (req, res) => {
 });
 
 app.listen(3001,() =>{
-    console.log("server started on port 3002");
+    console.log("server started on port 3001");
 });
